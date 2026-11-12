@@ -1,0 +1,9 @@
+node_modules/
+dist/
+runs/
+artifacts/
+.DS_Store
+.env*
+!.env.example
+*.log
+vendor/native/desktop-control
